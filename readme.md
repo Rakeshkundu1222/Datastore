@@ -1,8 +1,5 @@
 # Datastore
 The methods of class Datastore(from datastore.py) are described below.
-### note: 
-The testing JSONs were generated from https://www.json-generator.com/ 
-
 ## Datastore.create(key, json[, time])
 #### Parameters:
 key: string, length of less than 32.
